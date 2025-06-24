@@ -1,0 +1,10 @@
+langgraph
+langchain
+langsmith
+python-dotenv
+langchain-groq 
+langchain_tavily
+
+
+
+streamlit
